@@ -116,9 +116,11 @@ def ExeOutput():
             
             # json file output
             outputpath = new_dir_path + '/' + str(num) + '.json'
-            json_file = open(outputpath, mode="w")
+            json_file = open(outputpath, mode='w',encoding='utf-8')
             json.dump(dict, json_file, indent=2, ensure_ascii=False)
             json_file.close()
+
+            # If there are line breaks in the description, fix them appropriately!
             print(outputpath + " gnenerate.")
 
         var_output.set("Success Complete!")
