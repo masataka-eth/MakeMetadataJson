@@ -67,7 +67,7 @@ def DeleteAttribute():
         var_output.set("Exception error occurred!")
 
 def Validate():
-    if txt_0_0.get() == "" or txt_0_1.get() == "" or txt_1_0.get() == "" or txt_2_0.get() =="" or txt_3_0.get() =="":
+    if txt_0_0.get() == "" or txt_0_1.get() == "" or txt_1_0.get() == ""  or txt_3_0.get() =="":
         return False
     if int(txt_0_0.get()) >= int(txt_0_1.get()):
         return False
