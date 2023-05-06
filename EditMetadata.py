@@ -103,11 +103,8 @@ def ExeOutput():
             dict["name"] = txt_1_0.get() + "#" + str(num)
             dict["description"] = txt_2_0.get()
 
-            #dict["image"] = txt_3_0.get() + str(num) + extension
-            current_number = num % 7
-            if current_number == 0:
-                current_number = 7
-            dict["image"] = txt_3_0.get() + "109_" + str(current_number) + extension
+            dict["image"] = txt_3_0.get() + str(num) + extension
+            #dict["image"] = txt_3_0.get() + "a1c" + extension
 
             # attribute
             if attribute_cnt > 0:

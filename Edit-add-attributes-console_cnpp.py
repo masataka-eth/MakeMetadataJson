@@ -10,13 +10,13 @@ import copy
 
 dict2 = {}
 attlist = []
-trait_type_list = ["わんぱく(Impish)","むじゃき(Naive)","てれや(Bashful)","がんばりや(Hardy)","すなお(Docile)"]
+trait_type_list = ["crazyさ","パラダイス度合い","パッパラー感","猫又っぽさ","マブハイレベル","エンジョイ具合"]
 
 # make newFolder
 new_dir_path = './' + datetime.now().strftime('%Y%m%d%H%M%S') + '_attributes-add'
 os.mkdir(new_dir_path)
 
-for num in range(1,10000+1):  #1-10000
+for num in range(1,7641+1):  #1-10000
     # json → dict
     outputpath = "./attributes-add/" + str(num) + ".json"
     print(outputpath)
