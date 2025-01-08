@@ -1,0 +1,47 @@
+{
+  "name": "Aopanda-Cheeks-circle#48",
+  "description": "\"Aopanda\" is a popular panda character on TikTok created by a Japanese animator.  \n  Big panda is \"Ah chan\",Mini panda is \"Oh chan\" They are \"Aopanda\"!  \n  We mainly send out animations that make you feel \"importance of words\" and animations that make you have \"positive thinking\"!  \n    \n  \"あおぱんだ\"は日本のアニメーターによって生み出された、TikTokで大活躍中のパンダキャラクターです。  \n  大きい\"あーちゃん\"と小さい\"おーちゃん\"、ふたり合わせて\"あおぱんだ\"！  \n  主に「言葉の大切さ」を感じるアニメや、「ポジティブシンキング」になれるアニメを発信しています！",
+  "image": "https://nft.aopanda.ainy-llc.com/site/app/images/1/48.gif",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Cheeks-circle"
+    },
+    {
+      "trait_type": "Clothes_costume",
+      "value": "Kimono02"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mouth06"
+    },
+    {
+      "trait_type": "Head_character",
+      "value": "Castella plain head"
+    },
+    {
+      "trait_type": "Hand_accessories-left",
+      "value": "Castella carrot"
+    },
+    {
+      "trait_type": "わんぱく(Impish)",
+      "value": 2
+    },
+    {
+      "trait_type": "むじゃき(Naive)",
+      "value": 4
+    },
+    {
+      "trait_type": "てれや(Bashful)",
+      "value": 4
+    },
+    {
+      "trait_type": "がんばりや(Hardy)",
+      "value": 2
+    },
+    {
+      "trait_type": "すなお(Docile)",
+      "value": 6
+    }
+  ]
+}
